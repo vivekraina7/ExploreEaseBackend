@@ -5,3 +5,4 @@ numpy
 pandas
 nltk
 google-generativeai
+scikit-learn==1.5.2
