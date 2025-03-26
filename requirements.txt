@@ -5,4 +5,3 @@ numpy
 pandas
 nltk
 google-generativeai
-pickle
