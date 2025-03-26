@@ -1,0 +1,8 @@
+python-multipart
+fastapi
+uvicorn
+numpy
+pandas
+nltk
+google-generativeai
+pickle
