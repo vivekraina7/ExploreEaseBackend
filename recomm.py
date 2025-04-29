@@ -16,7 +16,7 @@ recommender = None
 hotel = None
 
 # Gemini API setup
-genai.configure(api_key="AIzaSyD8tbvCV-xCxYapdOiGs8a-2DTrydJXE_U")
+genai.configure(api_key="AIzaSyDcrJg4kH1TGtQutFmu0gjL65BAhdR3riQ")
 generation_config = {
     "temperature": 0.5,
     "top_p": 0.95,
